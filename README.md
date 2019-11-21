@@ -1,2 +1,2 @@
 # utility_script
-utility scripts to make my live slightly easier
+utility scripts to make my life slightly easier
